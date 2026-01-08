@@ -12,6 +12,6 @@ This folder contains SQL queries and analysis focused on solving real-world busi
 ## Skills Demonstrated
 - Joins (INNER, LEFT)
 - Aggregations & GROUP BY
-- Window functions (LAG)
-- Subqueries & HAVING
+- Window functions
+- Subqueries 
 - Business-oriented data analysis
